@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
 <h3 align="center">Data Engineer and Data Analyst with experience in interactive data visualization with dashboards deployed in web apps</h3>
+<img align='right' alt='coding' width='400' src='https://www.just.edu.jo/Units_and_offices/Offices/IRO/PublishingImages/Pages/AlumniAbout/hiring-manager-quantumhunts.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khorneflakes-dev&label=Profile%20views&color=0e75b6&style=flat" alt="khorneflakes-dev" /> </p>
 
