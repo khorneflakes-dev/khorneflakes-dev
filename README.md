@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
 <h3 align="center">Data Engineer and Data Analyst with experience in interactive data visualization with dashboards deployed in web apps</h3>
-<img align='right' width='400' src='https://www.just.edu.jo/Units_and_offices/Offices/IRO/PublishingImages/Pages/AlumniAbout/hiring-manager-quantumhunts.gif'>
-
-
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/98509698/205488812-96c222ed-cbb2-4c1d-b6c2-6bdc1a42e3da.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khorneflakes-dev&label=Profile%20views&color=0e75b6&style=flat" alt="khorneflakes-dev" /> </p>
 
@@ -17,6 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 
+<a href="https://www.linkedin.com/in/khorneflakes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khorne" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
