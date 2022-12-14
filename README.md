@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khorneflakes-dev&label=Profile%20views&color=0e75b6&style=flat" alt="khorneflakes-dev" /> </p>
 
-- 🔭 I’m currently working on [Yelp Plus](https://github.com/khorneflakes-dev/Proyecto-Final-YELP)
+- 🔭 I’m currently working on [Licor Web Scraping](https://github.com/khorneflakes-dev/selenium-licor)
 
-- 🌱 I’m currently learning **Looker Data Explorer**
+- 🌱 I’m currently learning **Looker Data Studio**
 
 - 💬 Ask me about **Dash, Plotly and Python**
 
