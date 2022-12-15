@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khorneflakes-dev&label=Profile%20views&color=0e75b6&style=flat" alt="khorneflakes-dev" /> </p>
 
-- 🔭 I’m currently working on [my portfolio]
+- 🔭 I’m currently working on [my portfolio]()
 
 - 🌱 I’m currently learning **Looker Data Studio**
 
