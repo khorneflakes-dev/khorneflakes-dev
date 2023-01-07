@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
-<h3 align="center">Data Engineer and Data Analyst with experience in interactive data visualization with dashboards deployed in web apps</h3>
+<h3 align="center">Data Analyst with experience in interactive data visualization with dashboards deployed in web apps</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/98509698/205488812-96c222ed-cbb2-4c1d-b6c2-6bdc1a42e3da.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khorneflakes-dev&label=Profile%20views&color=0e75b6&style=flat" alt="khorneflakes-dev" /> </p>
