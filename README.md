@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khorneflakes-dev&label=Profile%20views&color=0e75b6&style=flat" alt="khorneflakes-dev" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://khorneflakes-dev.github.io/)
+- 🔭 I’m currently working on personal project
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **Svelte** and **FastAPI**
 
 - 💬 Ask me about **Dash, Plotly and Python**
 
