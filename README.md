@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on personal project
 
-- 🌱 I’m currently learning **Svelte** and **FastAPI**
+- 🌱 I’m currently learning **Svelte, Tailwind CSS** and **Django**
 
 - 💬 Ask me about **Dash, Plotly and Python**
 
