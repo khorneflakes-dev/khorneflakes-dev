@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khorneflakes-dev&label=Profile%20views&color=0e75b6&style=flat" alt="khorneflakes-dev" /> </p>
 
-- 🔭 I’m currently working on personal at **Multicompras Qn. Ltda.**
+- 🔭 I’m currently working as a data analyst at **Multicompras Qn. Ltda.**
 
 - 🌱 I’m currently learning **Svelte, Tailwind CSS** and **Django**
 
