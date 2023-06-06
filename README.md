@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a data analyst at **Multicompras Qn. Ltda.**
 
-- 🌱 I’m currently learning **Svelte, Tailwind CSS** and **Django**
+- 🌱 I’m currently learning **Svelte, Tailwind CSS** and **FastAPI**
 
 - 💬 Ask me about **Dash, Plotly and Python**
 
