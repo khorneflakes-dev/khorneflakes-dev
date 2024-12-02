@@ -19,4 +19,4 @@
 
 [stats]: https://github-readme-stats.vercel.app/api?username=khorneflakes-dev&show_icons=true&theme=blue-green
 [language]: https://github-readme-stats.vercel.app/api/top-langs/?username=khorneflakes-dev&layout=compact&theme=blue-green
-[watch]: https://count.getloli.com/@khorneflakes-dev?name=khorneflakes-dev&theme=kasuterura-4&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto
+[watch]: https://count.getloli.com/@khorneflakes-dev?name=khorneflakes-dev&theme=kasuterura-4&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=0
