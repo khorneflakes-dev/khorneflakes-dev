@@ -1,0 +1,88 @@
+# Todo lo que aparece en la terminal sale de este archivo.
+# Después de editarlo:  py scripts/generate.py   (o hacé push y lo corre el Action)
+
+[perfil]
+usuario = "khorneflakes-dev"    # usuario de GitHub: de acá salen las stats reales y el nombre del repo
+nombre = "khorneflakes"       # lo que se muestra en la interfaz (si falta, se usa usuario)
+host = "github"               # lo que va después de la @ en fastfetch
+programando_desde = 2019      # alimenta {uptime}
+estilo = "pipboy"             # pipboy | widgets | kitty
+
+[widgets]
+titulo = "DATA · BI"          # texto grande del calendario
+# Hasta 4 líneas cortas (~20 caracteres), se escriben a mano una tras otra.
+frase = ["I build dashboards", "that tell stories", "with data", "and coffee"]
+saludo = "hi!"             # globo del gato; vacío para sacarlo
+cuenta_regresiva = { fecha = "2027-01-01", evento = "2027" }
+
+[pipboy]
+titulo = "PIP-BOY 3000"
+subtitulo = "ROBCO INDUSTRIES"
+personaje = "animacion"       # animacion | imagen | vaultboy (dibujado a mano) | logo (el gato de [fastfetch] logo)
+animacion = "assets/source/walk"         # cuadros generados con scripts/trazar.py
+imagen = "assets/source/personaje.png"   # PNG con fondo transparente; se pinta del color del fósforo
+color_oscuro = "verde"        # verde | ambar | azul | blanco  (tema oscuro de GitHub)
+color_claro = "ambar"         # el mismo menú, para el tema claro
+# S.P.E.C.I.A.L.: hasta 7 habilidades, autoevaluadas de 1 a 10.
+special = [["SQL", 9], ["Power BI", 9], ["DAX", 8], ["Python", 8], ["dbt", 7], ["Airflow", 7], ["Coffee", 10]]
+
+[kitty]
+tema = "catppuccin"           # catppuccin | tokyonight | gruvbox | rosepine
+pestanas = ["zsh", "nvim", "btop"]
+# Se tipea al final en el panel izquierdo y queda con el cursor parpadeando.
+comando_final = "git commit -m 'thanks for stopping by'"
+
+[fastfetch]
+# Arte ASCII del logo. Solo caracteres de ancho simple (nada de emojis ni CJK).
+logo = '''
+  ▄▀▀▄      ▄▀▀▄
+  █  ▀▄▄▄▄▄▄▀  █
+  █            █
+ █   ▄▄    ▄▄   █
+ █   ▀▀ ▄▄ ▀▀   █
+ █      ▀▀      █
+  ▀▄          ▄▀
+    ▀▀▄▄▄▄▄▄▀▀
+'''
+# [clave, valor]. Variables disponibles: {uptime} {theme} {langs} {repos} {stars} {followers}
+info = [
+  ["OS", "GitHub x86_64"],
+  ["Role", "Data & BI Engineer"],
+  ["Uptime", "{uptime}"],
+  ["Shell", "zsh 5.9"],
+  ["WM", "Hyprland"],
+  ["Terminal", "kitty 0.39"],
+  ["Editor", "neovim"],
+  ["Theme", "{theme}"],
+  ["Font", "JetBrainsMono Nerd Font"],
+  ["Langs", "{langs}"],
+  ["Repos", "{repos} public · {stars} ★"],
+]
+
+# Lo que muestra `bat stack.toml` en el panel de arriba a la derecha.
+# Cada sección es un bloque [nombre]; los valores pueden ser listas o texto.
+[stack.data]
+warehouse = ["SQL Server", "PostgreSQL"]
+modeling = ["dbt", "Power BI", "DAX"]
+
+[stack.pipelines]
+orchestration = ["Airflow", "Airbyte", "SSIS"]
+
+[stack.code]
+langs = ["Python", "SQL", "TypeScript"]
+tools = ["Git", "Docker", "Linux"]
+
+[stats]
+top_lenguajes = 4
+excluir_lenguajes = ["HTML", "CSS", "Jupyter Notebook"]
+
+# Datos que se usan con --demo o mientras usuario = "khorneflakes".
+[demo]
+repos = 24
+stars = 87
+followers = 31
+contribuciones = 1342
+semanas = [3, 8, 12, 5, 0, 14, 22, 18, 9, 31, 27, 12, 6, 19, 25, 33, 41, 28, 17, 22,
+           38, 30, 11, 4, 16, 29, 35, 24, 20, 44, 39, 26, 18, 31, 47, 36, 22, 15, 28, 33,
+           40, 52, 31, 19, 25, 37, 43, 29, 21, 34, 46, 38]
+lenguajes = [["Python", 48], ["SQL", 27], ["TypeScript", 15], ["Shell", 10]]
